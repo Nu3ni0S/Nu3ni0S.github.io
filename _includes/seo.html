@@ -1,8 +1,8 @@
 <!-- begin _includes/seo.html -->
 {%- if site.url -%}
-  {%- assign seo_url = site.url | append: site.baseurl -%}
+  {%- assign seo_url = ''%} <!-- = site.url | append: site.baseurl -%} -->
 {%- endif -%}
-{%- assign seo_url = seo_url | default: site.github.url -%}
+{%- assign seo_url = ''%} <!-- seo_url | default: site.github.url -%} -->
 
 {% assign title_separator = ''%} <!-- site.title_separator | replace: '|', '&#124;' %} -->
 
