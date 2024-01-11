@@ -2,4 +2,4 @@
 
 __https://maxlr8.github.io/__
 
-_(from [Minimal Mistakes](./Minimal_Mistakes.md))_
+_(from [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes))_
