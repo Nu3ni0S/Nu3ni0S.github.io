@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "CV"
+    url: ./../files/Resume.pdf
+  - title: "About"
+    url: /about/
