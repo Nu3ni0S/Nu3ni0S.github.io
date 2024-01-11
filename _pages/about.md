@@ -29,7 +29,7 @@ Away from the world of code, I wield a DSLR to capture moments that unfold aroun
 
 ### Sports and Expedition
 
-Beyond the screen, I am an avid explorer and sports enthusiast. I love chasing the wind on bike rides, conquering trails on treks, and immersing myself in the camaraderie of football, badminton, and swimming. I also love going on trails and jogs which is not just a fitness routine; it's a journey to discover new paths and perspectives.
+Beyond the screen, I am an avid explorer and sports enthusiast. I love chasing the wind on bike rides, conquering peaks on treks, and immersing myself in the camaraderie of football, badminton, and swimming. I also love going on trails and jogs which is not just a fitness routine; it's a journey to discover new paths and perspectives.
 
 <img src="https://maxlr8.github.io/assets/images/wall/scuba.jpg">{: .align-center}
 *Exploring the underwater realm, one dive at a time*
