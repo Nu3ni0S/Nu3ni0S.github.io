@@ -163,17 +163,7 @@ aiml_6:
   - image_path: /assets/images/projects/aiml/seq.gif
     alt: "seq"
     title: "Sequence Models"
-    text: "This module consists of various sequence model implementations such as RNNs, LSTMs, and Transformers.<br>
-    - 1. [Building an RNN Step-by-Step](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/1_building_an_rnn/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
-    - 2. [Character level Language Model](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/1_building_an_rnn/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
-    - 3. [Improvise a Jazz Solo with an LSTM Network](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/3_jazz_improvization_using_lstm/Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb)
-    - 4. [Emojify](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/4_emojify/Emojify.ipynb)
-    - 5. [Word Vector Representation](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/5_word_vector_representation/Operations_on_word_vectors.ipynb)
-    - 6. [Neural Machine Translation](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/6_machine_translation/Neural_machine_translation_with_attention.ipynb)
-    - 7. [Trigger Word Detection](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/7_trigger_word_detection/Trigger_word_detection.ipynb)
-    - 8. [Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/8_transformers/Transformers.ipynb)
-    - 9. [Named Entity Recognition](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/9_named_entity_recognition/Transformer_application_Named_Entity_Recognition.ipynb)
-    - 10. [QA Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/10_qa_transformer/QA_transformer.ipynb)"
+    text: "This module consists of various sequence model implementations such as RNNs, LSTMs, and Transformers.<br>1. [Building an RNN Step-by-Step](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/1_building_an_rnn/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)<br>2. [Character level Language Model](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/1_building_an_rnn/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)<br>3. [Improvise a Jazz Solo with an LSTM Network](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/3_jazz_improvization_using_lstm/Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb)<br>4. [Emojify](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/4_emojify/Emojify.ipynb)<br>5. [Word Vector Representation](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/5_word_vector_representation/Operations_on_word_vectors.ipynb)<br>6. [Neural Machine Translation](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/6_machine_translation/Neural_machine_translation_with_attention.ipynb)<br>7. [Trigger Word Detection](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/7_trigger_word_detection/Trigger_word_detection.ipynb)<br>8. [Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/8_transformers/Transformers.ipynb)<br>9. [Named Entity Recognition](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/9_named_entity_recognition/Transformer_application_Named_Entity_Recognition.ipynb)<br>10. [QA Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/10_qa_transformer/QA_transformer.ipynb)"
     url: "https://github.com/maxlr8/text_summarization_using_transformers/"
     btn_label: "Github"
     btn_class: "btn--primary"
@@ -185,7 +175,7 @@ aiml_6:
         - NumPy
 
 rs_1:
-  - image_path: /assets/images/projects/rs/rs.gif
+  - image_path: /assets/images/projects/rs/hsad.gif
     alt: "gan_hsad"
     title: "Discriminative Semi-Supervised GAN for HSAD"
     text: "This is a research-study on Discriminative Semi-Supervised Generative Adversarial Network (DSS-GAN) used in a study on Hyperspectral Anomaly Detection. The model is designed to leverage both labeled and unlabeled data for improved performance in Hyperspectral Image Analysis."
