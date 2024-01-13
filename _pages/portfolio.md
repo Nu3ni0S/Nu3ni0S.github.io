@@ -168,8 +168,24 @@ aiml_6:
     btn_label: "Github"
     btn_class: "btn--primary"
     tags:
+        - RNNs
+        - LSTMs
         - Transformers
         - NLTK
+        - SciKit-Learn
+        - Pandas
+        - NumPy
+
+aiml_7:
+  - image_path: /assets/images/projects/aiml/cnn.gif
+    alt: "cnn"
+    title: "Convolutional Neural Networks"
+    text: "This module consists of various Convolutional Neural Network implementations for different Computer-Vision tasks.<br>1. [Building an CNN Step-by-Step](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/1_building_a%20convolutional_nn/Convolution_model_Step_by_Step.ipynb)<br>2. [ConvNet for Image-Classification](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/2_convolutional_model_application/Convolution_model_-_Application.ipynb)<br>3. [Expression Recognition](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/3_keras/Keras_Tutorial_Happy_House.ipynb)<br>4. [Image Classification using ResNets](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/4_resnets/Residual_Networks.ipynb)<br>5. [Transfer-Learning using MobileNetV2](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/5_transfer_learning_with_mobilenets/Transfer_learning_with_MobileNet_v1.ipynb)<br>6. [Autonomous Driving using YOLO](https://github.com/maxlr8/deep_learning/tree/master/4_convolutional_neural_networks/6_car_detection_for_autonomous_driving/Autonomous_driving_application_Car_detection.ipynb)<br>7. [Image Segmentation using U-Net](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/7_image_segmentation_unet/Image_segmentation_Unet.ipynb)<br>8. [Face Recognition using FaceNet](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/8_face_recognition/Face_Recognition.ipynb)<br>9. [Neural Style Transfer using VGG-19](https://github.com/maxlr8/deep_learning/blob/master/4_convolutional_neural_networks/9_neural_style_transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)"
+    url: "https://github.com/maxlr8/text_summarization_using_transformers/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - CNNs
         - SciKit-Learn
         - Pandas
         - NumPy
@@ -203,7 +219,7 @@ rs_1:
 {% include feature_row id="aiml_6" type="left" %}
 <a name="Sequence Models">
 {% include feature_row id="aiml_7" type="left" %}
-<a name="Convolution Neural Networks">
+<a name="Convolutional Neural Networks">
 <br>
 
 
