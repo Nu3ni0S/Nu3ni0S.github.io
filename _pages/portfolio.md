@@ -228,7 +228,7 @@ aiml_10:
     alt: "ml"
     title: "Machine Learning Algorithms"
     text: "This module consists of various Machine Learning Algorithms.<br>
-    1. [Supervised Learning](https://github.com/maxlr8/machine_learning_basics/tree/master/1_supervised_learning<br>
+    1. [Supervised Learning](https://github.com/maxlr8/machine_learning_basics/tree/master/1_supervised_learning)<br>
     &nbsp; &nbsp; 1. [Regression](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/2_regression/)<br>
     &nbsp; &nbsp; 2. [Classification](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/1_classification/)<br>
     2. [Unsupervised Learning](https://github.com/maxlr8/machine_learning_basics/tree/master/2_unsupervised_learning)<br>
