@@ -171,6 +171,8 @@ aiml_6:
         - RNNs
         - LSTMs
         - Transformers
+        - PyTorch
+        - Tensorflow
         - NLTK
         - SciKit-Learn
         - Pandas
@@ -186,11 +188,28 @@ aiml_7:
     btn_class: "btn--primary"
     tags:
         - CNNs
+        - PyTorch
+        - Tensorflow
         - SciKit-Learn
         - Pandas
         - NumPy
 
 aiml_8:
+  - image_path: /assets/images/projects/aiml/opt.gif
+    alt: "opt"
+    title: "Hyperparameter tuning and regularization"
+    text: "This module implements various model optimization strategies.<br>1. [Gradient Checking](https://github.com/maxlr8/deep_learning/blob/master/2_hyperparameter_tuning_and_regularization/1_gradient_checking/Gradient%20Checking.ipynb)<br>2. [Model Initializations](https://github.com/maxlr8/deep_learning/blob/master/2_hyperparameter_tuning_and_regularization/2_initialization/Initialization.ipynb)<br>3. [Regularization](https://github.com/maxlr8/deep_learning/blob/master/2_hyperparameter_tuning_and_regularization/3_regularization/Regularization.ipynb)<br>4. [Cost Optimization](https://github.com/maxlr8/deep_learning/blob/master/2_hyperparameter_tuning_and_regularization/4_optimization_methods/Optimization_methods.ipynb)<br>5. [Tensorflow Implementation](https://github.com/maxlr8/deep_learning/blob/master/2_hyperparameter_tuning_and_regularization/5_tensorflow/Tensorflow_introduction.ipynb)"
+    url: "https://github.com/maxlr8/classifier_model_evaluation/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Machine Learning
+        - Tensorflow
+        - SciKit-Learn
+        - Pandas
+        - NumPy
+
+aiml_9:
   - image_path: /assets/images/projects/aiml/evaluation_metrics.jpg
     alt: "eval"
     title: "Classifier Model Evaluation"
@@ -210,8 +229,11 @@ aiml_10:
     title: "Machine Learning Algorithms"
     text: "This module consists of various Machine Learning Algorithms.<br>
     1. Supervised Learning<br>
-    &nbsp; 1. [Regression](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/2_regression/regression.ipynb)
-    &nbsp; 2. [Classification](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/1_classification/classification.ipynb)"
+    &nbsp; &nbsp; 1. [Regression](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/2_regression/)<br>
+    &nbsp; &nbsp; 2. [Classification](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/1_classification/)<br>
+    2. Unsupervised Learning<br>
+    &nbsp; &nbsp; 1. [Clustering](https://github.com/maxlr8/machine_learning_basics/tree/master/2_unsupervised_learning/1_clustering/)<br>
+    &nbsp; &nbsp; 2. [Association Rule](https://github.com/maxlr8/machine_learning_basics/tree/master/2_unsupervised_learning/2_association_rule)<br>"
     url: "https://github.com/maxlr8/machine_learning_basics"
     btn_label: "Github"
     btn_class: "btn--primary"
@@ -252,6 +274,8 @@ rs_1:
 {% include feature_row id="aiml_7" type="left" %}
 <a name="Convolutional Neural Networks">
 {% include feature_row id="aiml_8" type="left" %}
+<a name="Model Optimization Strategies">
+{% include feature_row id="aiml_9" type="left" %}
 <a name="Classifier Model Evaluation">
 {% include feature_row id="aiml_10" type="left" %}
 <a name="Machine Learning Basics">
