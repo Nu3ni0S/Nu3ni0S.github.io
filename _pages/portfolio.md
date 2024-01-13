@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 
 cs_1:
-  - image_path: /assets/images/projects/aws_eks_ms.jpg
+  - image_path: /assets/images/projects/de/aws_eks_ms.jpg
     alt: "aws_ek_ms"
     title: "AWS EKS Microservices"
     text: "This project implements a Python-based Microservice Application on AWS Elastic Kubernetes Services (EKS) where a user can upload a video and get it processed into a sound file (mp3)."
@@ -23,15 +23,15 @@ cs_1:
         - Docker
 
 cs_2:
-  - image_path: /assets/images/projects/aws_eks_cn.jpg
+  - image_path: /assets/images/projects/de/aws_eks_cn.jpg
     alt: "aws_ek_cn"
     title: "Cloud-Native App using AWS EKS"
     text: "This project implements an End-To-End Cloud-Native Voting application using AWS EKS (Amazon Elastic Kubernetes Services) where users can caste their votes."
-    url: "https://github.com/maxlr8/aws_eks_cloud_native_app/"
+    url: "https://github.com/maxlr8/sentiment_analysis_snowflake_ml/"
     btn_label: "Github"
     btn_class: "btn--primary"
     tags:
-        - AWS
+        - Snowflake
         - EKS
         - ELB
         - EC2
@@ -40,7 +40,7 @@ cs_2:
         - React
 
 cs_3:
-  - image_path: /assets/images/projects/kafka.jpg
+  - image_path: /assets/images/projects/de/aws_kafka.jpg
     alt: "kafka"
     title: "Kafka Real-time Stock-Market Analysis"
     text: "This project implements an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka and the dynamically generated data is stored in the S3 bucket which can is crawled using Glue, fetched using Athena and visualized using QuickSight."
@@ -59,7 +59,7 @@ cs_3:
         - QuickSight
 
 cs_4:
-  - image_path: /assets/images/projects/twitter_etl.jpg
+  - image_path: /assets/images/projects/de/twitter_etl.jpg
     alt: "twitter_etl"
     title: "ETL using Apache Airflow"
     text: "This project focuses on extracting data from Twitter using the Twitter API, transforming the data using Python and loading it into S3-bucket."
@@ -73,7 +73,7 @@ cs_4:
         - S3
 
 cs_5:
-  - image_path: /assets/images/projects/psql.jpg
+  - image_path: /assets/images/projects/de/psql.jpg
     alt: "psql"
     title: "Data Modeling with Postgres"
     text: "In this project, data modeling is performed with Postgres and an ETL (Extract, Transform, Load) pipeline is employed using Python."
@@ -97,7 +97,116 @@ aiml_1:
         - OpenAI
         - LangChain
         - Pinecone
+
+aiml_2:
+  - image_path: /assets/images/projects/aiml/langchain_ib.jpg
+    alt: "langchain_ib"
+    title: "LangChain Ice Breaker"
+    text: "Ice Breaker is a LangChain based AI application that provides ice breakers for a given person by crawling through a person's LinkedIn and Twitter accounts using Tools, Chains and Agents in LangChains, helping to initiate a captivating conversation with that person."
+    url: "https://github.com/maxlr8/langchain_ice_breaker/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - OpenAI
+        - LangChain
+        - Pinecone
+
+aiml_3:
+  - image_path: /assets/images/projects/aiml/snowflake_ml.jpg
+    alt: "snowflake_ml"
+    title: "Sentiment Analysis using Snowflake"
+    text: "This project implements Natural Language Processing (NLP) and Machine Learning (ML) within Snowflake using Snowpark Python on Kaggle's IMDB dataset."
+    url: "https://github.com/maxlr8/sentiment_analysis_snowflake_ml/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Snowflake
+        - NLTK
+        - SciKit-Learn
+        - Pandas
+        - NumPy
+
+aiml_4:
+  - image_path: /assets/images/projects/aiml/nwp.jpg
+    alt: "nwp"
+    title: "Next-Word Prediction Application"
+    text: "The Next-Word Predictor is a full end-to-end Django-based AI application, powered by BERT LM under the hood, that continually suggests upcoming words as the user types giving user specific metrics on typing along with login and authentication features."
+    url: "https://github.com/maxlr8/next_word_prediction/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Django
+        - BERT
+        - NLTK
+        - SciKit-Learn
+        - Pandas
+        - Docker
+
+aiml_5:
+  - image_path: /assets/images/projects/aiml/text_summarization.jpg
+    alt: "text_summarization"
+    title: "Text-Summarization Application"
+    text: "An experimentation to compare different text summarization using different state-of-the-art transformer models."
+    url: "https://github.com/maxlr8/text_summarization_using_transformers/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Django
+        - Transformers
+        - NLTK
+        - SciKit-Learn
+        - Pandas
+        - ROUGE
+        - Word CLoud
+
+aiml_5:
+  - image_path: /assets/images/projects/aiml/seq.gif
+    alt: "seq"
+    title: "Sequence Models"
+    text: "This module consists of various sequence model implementations such as RNNs, LSTMs, and Transformers.<br>
+    - [QA Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/10_qa_transformer/QA_transformer.ipynb)
+    - [QA Transformers](https://github.com/maxlr8/deep_learning/blob/master/5_sequential_neural_networks/10_qa_transformer/QA_transformer.ipynb)"
+    url: "https://github.com/maxlr8/text_summarization_using_transformers/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Django
+        - Transformers
+        - NLTK
+        - SciKit-Learn
+        - Pandas
+        - ROUGE
+        - Word CLoud
+
+rs_1:
+  - image_path: /assets/images/projects/rs/rs.gif
+    alt: "gan_hsad"
+    title: "Discriminative Semi-Supervised GAN for HSAD"
+    text: "This is a research-study on Discriminative Semi-Supervised Generative Adversarial Network (DSS-GAN) used in a study on Hyperspectral Anomaly Detection. The model is designed to leverage both labeled and unlabeled data for improved performance in Hyperspectral Image Analysis."
+    url: "https://github.com/maxlr8/GANs_for_HSAD/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - GANs
 ---
+
+
+## AI and ML Projects
+
+&nbsp;
+{% include feature_row id="aiml_1" type="left" %}
+<a name="LangChain Documentation Helper">
+{% include feature_row id="aiml_2" type="left" %}
+<a name="LangChain Ice Breaker">
+{% include feature_row id="aiml_3" type="left" %}
+<a name="Sentiment Analysis using Snowflake ML">
+{% include feature_row id="aiml_4" type="left" %}
+<a name="Next-Word Predictor">
+{% include feature_row id="aiml_5" type="left" %}
+<a name="Text-Summarization">
+{% include feature_row id="aiml_5" type="left" %}
+<a name="Sequence Models">
+
 
 ## Data Engineering Projects 
 
@@ -112,9 +221,7 @@ aiml_1:
 {% include feature_row id="cs_5" type="left" %}
 <a name="Data Modeling with Postgres"></a>
 
+## Researches
 
-## AI and ML Projects
-
-&nbsp;
-{% include feature_row id="aiml_1" type="left" %}
-<a name="LangChain Documentation Helper">
+{% include feature_row id="rs_1" type="left" %}
+<a name="Discriminative Semi-Supervised GAN for HSAD"></a>
