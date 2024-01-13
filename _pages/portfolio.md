@@ -190,6 +190,37 @@ aiml_7:
         - Pandas
         - NumPy
 
+aiml_8:
+  - image_path: /assets/images/projects/aiml/evaluation_metrics.jpg
+    alt: "eval"
+    title: "Classifier Model Evaluation"
+    text: "This project performs an evaluation of performances of different classification models tested on the standard Breast Cancer Wisconsin (Diagnostic) Data Set to predict whether the cancer is Benign or Malignant."
+    url: "https://github.com/maxlr8/classifier_model_evaluation/"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Machine Learning
+        - SciKit-Learn
+        - Pandas
+        - NumPy
+
+aiml_10:
+  - image_path: /assets/images/projects/aiml/ml_tree.jpg
+    alt: "ml"
+    title: "Machine Learning Algorithms"
+    text: "This module consists of various Machine Learning Algorithms.<br>
+    1. Supervised Learning<br>
+    &nbsp; 1. [Regression](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/2_regression/regression.ipynb)
+    &nbsp; 2. [Classification](https://github.com/maxlr8/machine_learning_basics/blob/master/1_supervised_learning/1_classification/classification.ipynb)"
+    url: "https://github.com/maxlr8/machine_learning_basics"
+    btn_label: "Github"
+    btn_class: "btn--primary"
+    tags:
+        - Machine Learning
+        - SciKit-Learn
+        - Pandas
+        - NumPy
+
 rs_1:
   - image_path: /assets/images/projects/rs/hsad.gif
     alt: "gan_hsad"
@@ -220,6 +251,10 @@ rs_1:
 <a name="Sequence Models">
 {% include feature_row id="aiml_7" type="left" %}
 <a name="Convolutional Neural Networks">
+{% include feature_row id="aiml_8" type="left" %}
+<a name="Classifier Model Evaluation">
+{% include feature_row id="aiml_10" type="left" %}
+<a name="Machine Learning Basics">
 <br>
 
 
