@@ -86,7 +86,7 @@ cs_5:
         - Shell
 
 aiml_1:
-  - image_path: /assets/images/projects/langchain_dh.jpg
+  - image_path: /assets/images/projects/aiml/langchain_dh.jpg
     alt: "langchain_dh"
     title: "LangChain Documentation Helper"
     text: "This project implements a LangChain based AI Web Application that is trained and deployed to answer ay question about LangChain (Sources from Official LangChain documentation)."
