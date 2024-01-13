@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 
 cs_1:
-  - image_path: /assets/images/project/aws_eks_cn.jpg
+  - image_path: /assets/images/projects/aws_eks_cn.jpg
     alt: "aws_ek_ms"
     title: "AWS EKS Microservices"
     text: "This project implements a Python-based Microservice Application on AWS Elastic Kubernetes Services (EKS) where a user can upload a video and get it processed into a sound file (mp3)."
@@ -22,7 +22,7 @@ cs_1:
         - Docker
 
 aiml_1:
-  - image_path: /assets/images/project/langchain_dh.jpg
+  - image_path: /assets/images/projects/langchain_dh.jpg
     alt: "langchain_dh"
     title: "LangChain Documentation Helper"
     text: "This project implements a LangChain based AI Web Application that is trained and deployed to answer ay question about LangChain (Sources from Official LangChain documentation)."
