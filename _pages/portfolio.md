@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 
 cs_1:
-  - image_path: /assets/images/projects/aws_eks_cn.jpg
+  - image_path: /assets/images/projects/aws_eks_ms.jpg
     alt: "aws_ek_ms"
     title: "AWS EKS Microservices"
     text: "This project implements a Python-based Microservice Application on AWS Elastic Kubernetes Services (EKS) where a user can upload a video and get it processed into a sound file (mp3)."
