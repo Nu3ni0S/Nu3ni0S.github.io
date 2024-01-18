@@ -256,6 +256,14 @@ rs_1:
 ---
 
 
+## Research
+
+&nbsp;
+{% include feature_row id="rs_1" type="left" %}
+<a name="Discriminative Semi-Supervised GAN for HSAD"></a>
+<br>
+
+
 ## AI and ML Projects
 
 &nbsp;
@@ -297,10 +305,3 @@ rs_1:
 <a name="Data Modeling with Postgres"></a>
 <br>
 
-
-## Research
-
-&nbsp;
-{% include feature_row id="rs_1" type="left" %}
-<a name="Discriminative Semi-Supervised GAN for HSAD"></a>
-<br>
