@@ -12,9 +12,7 @@ header:
 
 ## Career
 
-Hello, I'm Sharath Kumar, a passionate researcher who leverages cutting-edge technologies to drive innovation and solve problems. I am actively engaged in the field of Artificial Intelligence, specializing in **Deep Learning**, **Natural Language Processing (NLP)**, and **Cloud Computing**.
-
-I currently work as an **AI Research Engineer** at the **Office of Research, Services and Innovation (ORSIE), The AI Hub** implementing intelligent and advanced end-to-end AI solutions in various fields involving human interventions.
+Hello, I'm Sharath Kumar, an **AI Research Engineer** driven by passion for leveraging advanced technologies to drive innovation and craft intelligent end-to-end AI solutions across diverse domains harnessing my expertise in **Deep Learning**, **Natural Language Processing (NLP)**, and **Cloud Computing**.
 
 ## Hobbies
 ### Photography
